@@ -3,8 +3,6 @@
     "version": "1.0.0",
     "description": "常用的操作 DOM 的方法",
     "main": "./src/index.js",
-    "scripts": {},
-    "repository": {},
     "keywords": [],
     "author": "",
     "license": "ISC"
